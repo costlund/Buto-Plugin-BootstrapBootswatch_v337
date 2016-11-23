@@ -1,0 +1,1 @@
+This folder has to be linked, moved or copied to public part of buto.
