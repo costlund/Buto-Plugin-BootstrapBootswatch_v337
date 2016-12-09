@@ -1,5 +1,5 @@
 <?php
-/**
+/***
 <p>Plugin to override bootstrap default css. 16 avilable css included.</p>
 <p>This plugin has a public folder who has to be moved, copied or linked to public part of Buto.</p>
 <p>Visit <a href="https://www.bootswatch.com/" target="_blank">www.bootswatch.com</a> for more info.</p>
